@@ -16,7 +16,9 @@ else:
  if Receipt == "no" :
    print("ok well it will be at your house in a few minutes.")
    question=input()
-   if question= "How did you know where my house is"
-   print (...)
+   if question == "How did you know where my house is" :
+    print (...)
    else:
-     
+     print("GoodBye!!!!")
+ else :
+     print(" well you ordered a "+CheeseType+" and a "+DrinkType+", we will be at your house soon")   
